@@ -1,3 +1,3 @@
 # Kokoa talk Clone
 
-CSS is programming language
+CSS & HTML is very exciting!
