@@ -1,3 +1,3 @@
 # Kokoa talk Clone
 
-CSS & HTML is very exciting!
+CSS & HTML are very exciting!
